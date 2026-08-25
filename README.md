@@ -1,6 +1,8 @@
 # ACSIncome Fairness Project
 
-This repository contains the materials for the **Responsible AI (RAI) Class: Auditing & Mitigating Hidden Bias** project. 
+This repository contains the materials for **Project 1** of the course **02517 Responsible AI: Algorithmic Fairness and Explainability (Fall 2026)**. 
+
+The project is titled **Auditing & Mitigating Hidden Bias**.
 
 Over the course of three weeks, students will evaluate, audit, and mitigate algorithmic bias using the ACSIncome dataset. The project progresses from a baseline fairness audit (Week 1), to a blind data audit of noisy labels (Week 2), and concludes with reference-label evaluation and mitigation strategies (Week 3).
 
