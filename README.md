@@ -27,3 +27,9 @@ To avoid local environment setup issues, we highly recommend using Google Colab 
    !git clone https://github.com/ADE-17/RAI_Project1_Fairness_Project.git
    ```
    and update the `DATA_DIR` path in the notebooks accordingly.
+
+---
+
+**Created and maintained by:**
+Aditya Parikh, PhD Student at DTU Compute, Researcher in Responsible AI  
+TA for this course. For any doubts or inquiries regarding this repository, please contact me.
