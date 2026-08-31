@@ -9,11 +9,12 @@ Over the course of three weeks, students will evaluate, audit, and mitigate algo
 ## Final Submission
 
 The final submission is due at the end of **Week 3**. 
-You are required to submit a **3-4 page report** summarizing your findings across the three weeks. 
-- Please strictly use the [CVPR Paper Template](https://github.com/cvpr-org/author-kit/releases).
-- The detailed structure and requirements for the final report can be found at the bottom of the `Week3_Mitigation_Reference_Evaluation.ipynb` notebook.
+You are required to submit a **poster** summarizing your findings across the three weeks. 
+- Please strictly use an A0 poster size.
+- The detailed structure and requirements for the final poster can be found at the bottom of the `Week3_Mitigation_Reference_Evaluation.ipynb` notebook.
 
-## Getting Started with Google Colab (Recommended)
+
+## Incase you are using Colab
 
 To avoid local environment setup issues, we highly recommend using Google Colab to run the Jupyter Notebooks.
 
