@@ -13,10 +13,31 @@ You are required to submit a **poster** summarizing your findings across the thr
 - Please strictly use an A0 poster size.
 - The detailed structure and requirements for the final poster can be found at the bottom of the `Week3_Mitigation_Reference_Evaluation.ipynb` notebook.
 
+## Local Environment Setup
+
+If you prefer to run the project locally on your machine instead of using Colab, we have provided a setup script to configure a virtual environment, install the required packages, and register the Jupyter kernel for you.
+
+**Setup Instructions:**
+1. Clone this repository to your local machine.
+2. Open a terminal and navigate to the root of the repository.
+3. Run the setup script:
+   ```bash
+   ./setup.sh
+   ```
+4. Once completed, activate the environment (if you plan to run python scripts from the terminal):
+   ```bash
+   source .venv/bin/activate
+   ```
+5. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+6. Open a notebook and ensure the kernel **RAI (Python 3)** is selected in the top right corner.
+
 
 ## Incase you are using Colab
 
-To avoid local environment setup issues, we highly recommend using Google Colab to run the Jupyter Notebooks.
+To avoid local environment setup issues, we recommend using Google Colab to run the Jupyter Notebooks.
 
 **Setup Instructions:**
 1. Open [Google Colab](https://colab.research.google.com/).
