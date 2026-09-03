@@ -20,7 +20,7 @@ If you prefer to run the project locally on your machine instead of using Colab,
 **Setup Instructions:**
 1. Clone this repository to your local machine.
 2. Open a terminal and navigate to the root of the repository.
-3. Run the setup script:
+3. Run the setup script: (make sure to rename setup.txt -> setup.sh)
    ```bash
    ./setup.sh
    ```

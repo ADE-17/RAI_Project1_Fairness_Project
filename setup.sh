@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 # Register the Jupyter kernel
 echo "Installing Jupyter kernel..."
-python -m ipykernel install --user --name=acs_income_fairness --display-name "RAI (Python 3)"
+python -m ipykernel install --user --name=rai_fairness --display-name "RAI (Python 3)"
 
 echo "--------------------------------------------------------"
 echo "Setup complete! 🎉"
